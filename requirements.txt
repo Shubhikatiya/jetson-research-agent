@@ -1,0 +1,7 @@
+httpx
+beautifulsoup4
+langgraph
+langchain-core
+langchain-openai
+gradio
+ddgs
