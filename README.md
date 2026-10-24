@@ -1,4 +1,4 @@
-# Jetson Research Agent
+# Research Agent
 
 An **async multi-step research agent** built with **LangGraph** and **LangChain** that queries the web via DuckDuckGo, fetches and extracts source content, synthesizes findings with an LLM, and generates a Markdown report.
 
